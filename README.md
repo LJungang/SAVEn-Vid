@@ -1,6 +1,6 @@
 # **🌟 SAVEn-Vid: Synergistic Audio-Visual Integration for Enhanced Understanding in Long Video Context**
 
-Welcome to the **SAVEn-Vid** repository! This project redefines long video comprehension by **seamlessly integrating audio-visual modalities**, delivering state-of-the-art performance on complex benchmarks like **AVBench**. You can find more details in our [Paper](https://arxiv.org/submit/6012089/view)
+Welcome to the **SAVEn-Vid** repository! This project redefines long video comprehension by **seamlessly integrating audio-visual modalities**, delivering state-of-the-art performance on complex benchmarks like **AVBench**. You can find more details in our [Paper](https://arxiv.org/submit/6012089/view). We will release code and datasets soon~
 
 ## 🎯 **Highlights**
 
@@ -8,7 +8,7 @@ Welcome to the **SAVEn-Vid** repository! This project redefines long video compr
 - **🛠️ Data Pipeline**: Automated, scalable **data generation pipeline** for large-scale multi-modal datasets.
 - **💡 Model Excellence**: **SAVEn-Vid**, an audio-visual large language model, achieves cutting-edge results through **temporal-spatial alignment and fusion**.
 
----
+
 
 ## 🏆 **Model Overview**
 
