@@ -18,7 +18,6 @@ Welcome to the **SAVEn-Vid** repository! This project redefines long video compr
   <img src="docs/architecture.png" alt="SAVEn-Vid Architecture" width="800">
 </p>
 
----
 
 ## 🚀 **Features**
 
@@ -30,7 +29,6 @@ AVBench is our tailored benchmark for evaluating advanced **audio-visual reasoni
 <p align="center">
   <img src="docs/1_illustrative_Comparison.png" alt="SAVEn-Vid Architecture" width="800">
 </p>
----
 
 ### 📦 **Automated Data Pipeline**
 
@@ -40,13 +38,11 @@ Generate high-quality audio-visual datasets with our scalable **pipeline** desig
 
 <p align="center"><img src="docs/2_longAV_pipeline_.png" alt="SAVEn-Vid Architecture" width="800">
 </p>
----
 
 ### 🧠 **SAVEn-Vid Model**
 
 Achieving state-of-the-art performance with its **temporal-spatial alignment**, **adaptive resampling**, and **multi-modal feature fusion**.
 
----
 
 ## 📈 **Performance**
 
