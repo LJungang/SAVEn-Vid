@@ -72,7 +72,7 @@ cd SAVEn-Vid
 
 ## Citation
 
-    @misc{li2024savenvidsynergisticaudiovisualintegration,
+    @misc{li2024savenvid,
       title={SAVEn-Vid: Synergistic Audio-Visual Integration for Enhanced Understanding in Long Video Context}, 
       author={Jungang Li and Sicheng Tao and Yibo Yan and Xiaojie Gu and Haodong Xu and Xu Zheng and Yuanhuiyi Lyu and Linfeng Zhang and Xuming Hu},
       year={2024},
