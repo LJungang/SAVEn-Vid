@@ -1,6 +1,6 @@
 # **🌟 SAVEn-Vid: Synergistic Audio-Visual Integration for Enhanced Understanding in Long Video Context**
 
-Welcome to the **SAVEn-Vid** repository! This project redefines long video comprehension by **seamlessly integrating audio-visual modalities**, delivering state-of-the-art performance on complex benchmarks like **AVBench**. You can find more details in our [Paper](https://arxiv.org/submit/6012089/view). We will release code and datasets soon~
+Welcome to the **SAVEn-Vid** repository! This project redefines long video comprehension by **seamlessly integrating audio-visual modalities**, delivering state-of-the-art performance on complex benchmarks like **AVBench**. You can find more details in our [Paper](https://arxiv.org/abs/2411.16213). We will release code and datasets soon~
 
 ## 🎯 **Highlights**
 
@@ -72,6 +72,12 @@ cd SAVEn-Vid
 
 ## Citation
 
-    @article{
-
+    @misc{li2024savenvidsynergisticaudiovisualintegration,
+      title={SAVEn-Vid: Synergistic Audio-Visual Integration for Enhanced Understanding in Long Video Context}, 
+      author={Jungang Li and Sicheng Tao and Yibo Yan and Xiaojie Gu and Haodong Xu and Xu Zheng and Yuanhuiyi Lyu and Linfeng Zhang and Xuming Hu},
+      year={2024},
+      eprint={2411.16213},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.16213}, 
     }
