@@ -67,13 +67,9 @@ cd SAVEn-Vid
 <p align="center"> ✨ If you find SAVEn-Vid useful, don’t forget to ⭐ the repo! ✨ </p>
 
 ## Citation
-
-    @misc{li2024savenvid,
-      title={SAVEn-Vid: Synergistic Audio-Visual Integration for Enhanced Understanding in Long Video Context}, 
+      @article{li2024savenvid,
       author={Jungang Li and Sicheng Tao and Yibo Yan and Xiaojie Gu and Haodong Xu and Xu Zheng and Yuanhuiyi Lyu and Linfeng Zhang and Xuming Hu},
-      year={2024},
-      eprint={2411.16213},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2411.16213}, 
-    }
+      title={SAVEn-Vid: Synergistic Audio-Visual Integration for Enhanced Understanding in Long Video Context}, 
+      journal = {arXiv preprint arXiv:2411.16213},
+      year = {2024},
+      }
